@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Olive326 👋
 
-<!--
-**Olive326/Olive326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 Master's in ECE (Robotics) @ Northeastern University
+🤖 Embedded Systems | Robotics | ROS2
+💼 Previously Testing Engineer @ BYD Auto
 
-Here are some ideas to get you started:
+## 🔧 Technical Skills
+- **Languages:** C/C++, Python, MATLAB
+- **Embedded:** STM32, ARM Cortex-M
+- **Robotics:** ROS2, SLAM, Sensor Fusion
+- **Tools:** Git, Linux, OpenCV
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- [Drowsiness Detection System](https://github.com/Olive326/Driver-Drowsiness-Detection)) - CNN-based real-time detection
+- [Autonomous-Vehicle_System](https://github.com/Olive326/Autonomous-Vehicle-System) - STM32-based autonomous navigation
+- [Ros2-Orb-Slam3](https://github.com/Olive326/Ros2-Orb-Slam3)) - Visual SLAM system integrating ORB-SLAM3 with ROS2
+- [6-DOF-Mechanism-Analyze](https://github.com/Olive326/Forward-and-Inverse-kinematic-analysis))) - Matlab-based forward/inverse-kinematic-analysis
+
+
