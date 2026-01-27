@@ -7,7 +7,7 @@
 
 ## 🔧 Technical Skills
 - **Languages:** C/C++, Python, MATLAB
-- **Embedded:** STM32, ARM Cortex-M
+- **Embedded:** STM32, ARM Cortex-M, Raspberry Pi, Arduino
 - **Robotics:** ROS2, SLAM, Sensor Fusion
 - **Tools:** Git, Linux, OpenCV
 
