@@ -1,6 +1,7 @@
 # Hi, I'm Olive326 👋
 
 ## About Me
+🎓 Bachelar's in EE (Electronic) @ Shandong University
 🎓 Master's in ECE (Robotics) @ Northeastern University
 🤖 Embedded Systems | Robotics | ROS2
 💼 Previously Testing Engineer @ BYD Auto
